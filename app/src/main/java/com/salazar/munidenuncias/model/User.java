@@ -1,8 +1,6 @@
 package com.salazar.munidenuncias.model;
 
-/**
- * Created by linderhassinger on 11/13/17.
- */
+
 
 public class User {
     private Long id;

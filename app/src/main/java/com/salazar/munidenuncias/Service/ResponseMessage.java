@@ -1,8 +1,5 @@
 package com.salazar.munidenuncias.Service;
 
-/**
- * Created by linderhassinger on 11/13/17.
- */
 
 public class ResponseMessage {
     private String type;

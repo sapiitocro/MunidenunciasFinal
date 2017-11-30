@@ -15,9 +15,7 @@ import retrofit2.http.Multipart;
 import retrofit2.http.POST;
 import retrofit2.http.Part;
 
-/**
- * Created by linderhassinger on 11/13/17.
- */
+
 
 public interface ApiService {
 

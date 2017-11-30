@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Munidenuncias2.iml" filepath="$PROJECT_DIR$/Munidenuncias2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Munidenuncias.iml" filepath="$PROJECT_DIR$/Munidenuncias.iml" />
+      <module fileurl="file://C:\Users\Gian Franco\StudioProjects\Munidenuncias\Munidenuncias2.iml" filepath="C:\Users\Gian Franco\StudioProjects\Munidenuncias\Munidenuncias2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Gian Franco\StudioProjects\Munidenuncias\app\app.iml" filepath="C:\Users\Gian Franco\StudioProjects\Munidenuncias\app\app.iml" />
     </modules>
   </component>
 </project>

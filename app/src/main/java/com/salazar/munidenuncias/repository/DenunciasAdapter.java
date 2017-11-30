@@ -65,8 +65,7 @@ public class DenunciasAdapter extends RecyclerView.Adapter<DenunciasAdapter.View
 
         Denuncia denuncia = this.denuncia.get(position);
 
-        float lat = denuncia.getLat();
-        float lng = denuncia.getLng();
+
         holder.titulo.setText(denuncia.getTitulo());
         //holder.user.setText(denuncia.getUsuario());
         holder.ubicacion.setText(denuncia.getDescripcion());
